@@ -22,7 +22,7 @@ The course will introduce you to the world of data science.
 | 31th January |  [Pandas Basic](https://colab.research.google.com/github/yongsa-nut/SF251_67_2/blob/main/Pandas_Basic.ipynb)         |  [Video]   |  [HW1]      |
 | 7th February |  [Data Visualization Basic](https://colab.research.google.com/github/yongsa-nut/SF251_67_2/blob/main/SF_251_Lecture_3_Visualization_Basic.ipynb)   | [Video]     |  [HW2]()      |     
 | 14th February  | [Data Visualization Principles](https://docs.google.com/presentation/d/1g1aKeXXVjk4_EGxRq_Hxmhc33i2nALh9WqpQI5SDXIw/edit?usp=sharing) | [Video]    |       |   
-| 21st February | [EDA and Case Studies]()  | [Video]     |  [HW3]()    |      
+| 21st February | [EDA and Case Studies](https://colab.research.google.com/github/yongsa-nut/SF251_67_2/blob/main/SF2251_Lecture_5.ipynb)  | [Video]     |  [HW3]()    |      
 | 28th February | [Data Cleaning and Wrangling]()   | [Video]       |   [HW4]()       |      
 | 7th March | [Advanced Pandas and Web Scraping]()      | [Video]  |       |  
 | 14th March  |  **Midterm**   |     | [Reference](https://github.com/yongsa-nut/TU_CN240_DataScience_671/blob/main/Reference%20sheet.pdf)         |     
