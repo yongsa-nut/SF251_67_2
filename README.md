@@ -21,7 +21,7 @@ The course will introduce you to the world of data science.
 | 24th January |  [Intrduction to the course](https://docs.google.com/presentation/d/1kPae-iQ7QM5mGKOORlI7VohKYdzSxg7PqUj6LCVoqb8/edit?usp=sharing) | [Video]    |       |   
 | 31th January |  [Pandas Basic](https://colab.research.google.com/github/yongsa-nut/SF251_67_2/blob/main/Pandas_Basic.ipynb)         |  [Video]   |  [HW1]      |
 | 7th February |  [Data Visualization Basic]()   | [Video]     |  [HW2]()      |     
-| 14th February  | [Data Visualization Principles]() | [Video]    |       |   
+| 14th February  | [Data Visualization Principles](https://docs.google.com/presentation/d/1g1aKeXXVjk4_EGxRq_Hxmhc33i2nALh9WqpQI5SDXIw/edit?usp=sharing) | [Video]    |       |   
 | 21st February | [EDA and Case Studies]()  | [Video]     |  [HW3]()    |      
 | 28th February | [Data Cleaning and Wrangling]()   | [Video]       |   [HW4]()       |      
 | 7th March | [Advanced Pandas and Web Scraping]()      | [Video]  |       |  
