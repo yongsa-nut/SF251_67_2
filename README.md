@@ -24,7 +24,7 @@ The course will introduce you to the world of data science.
 | 14th February  | [Data Visualization Principles](https://docs.google.com/presentation/d/1g1aKeXXVjk4_EGxRq_Hxmhc33i2nALh9WqpQI5SDXIw/edit?usp=sharing) | [Video]    |       |   
 | 21st February | [EDA and Case Studies](https://colab.research.google.com/github/yongsa-nut/SF251_67_2/blob/main/SF2251_Lecture_5.ipynb)  | [Video]     |  [HW3]()    |      
 | 28th February | [Data Cleaning and Wrangling](https://colab.research.google.com/github/yongsa-nut/SF251_67_2/blob/main/SF251_Lecture_6.ipynb)   | [Video]       |   [HW4]()       |      
-| 7th March | [Advanced Pandas and Web Scraping]()      | [Video]  |       |  
+| 7th March | [Advanced Pandas and Web Scraping](https://colab.research.google.com/github/yongsa-nut/SF251_67_2/blob/main/SF_251_Lecture_7.ipynb)      | [Video]  |       |  
 | 14th March  |  **Midterm**   |     | [Reference](https://github.com/yongsa-nut/TU_CN240_DataScience_671/blob/main/Reference%20sheet.pdf)         |     
 | 21st March | [Introduction to Statistical Analysis](https://docs.google.com/presentation/d/1cZZbO8R6pSBI-8of8StGoqSWp3Aag4rbFBUodqB0Q4c/edit?usp=sharing) <br> [Introduction to Statistical Analysis (TH)](https://docs.google.com/presentation/d/1eumpKKZcvG8hZpsSRFWT9bmJiXIi3Goz1eNBG6IsOx8/edit?usp=sharing) | [Video]    | [HW5]()       |       
 | 28th March | [Introduction to Machine Learning](https://docs.google.com/presentation/d/1H9zEZgZTRwyq6475zEK5rh6tAw7wZ1_BA7xdfmW6qHk/edit?usp=sharing) <br> [Introduction to Machine Learning (TH)](https://docs.google.com/presentation/d/1fOu_EXKH3DNIu4DD_9gdAiP_RuybDVgGd_shOoQqsCg/edit?usp=sharing)  | [Video]   |         |  
