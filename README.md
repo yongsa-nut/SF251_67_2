@@ -18,7 +18,7 @@ The course will introduce you to the world of data science.
 
 | Date  |   Topic    | In-class Exercise | Video | Homework | 
 | ----- | ---------  | ----------------- | ------| -------- |
-| 24th January |  [Intrduction](https://docs.google.com/presentation/d/1kPae-iQ7QM5mGKOORlI7VohKYdzSxg7PqUj6LCVoqb8/edit?usp=sharing)                       |      | [Video]  |       |   
+| 24th January |  [Introduction](https://docs.google.com/presentation/d/1kPae-iQ7QM5mGKOORlI7VohKYdzSxg7PqUj6LCVoqb8/edit?usp=sharing)                       |      | [Video]  |       |   
 | 31th January |  [Pandas Basic](https://colab.research.google.com/github/yongsa-nut/SF251_67_2/blob/main/Pandas_Basic.ipynb)                               | [Colab](https://colab.research.google.com/github/yongsa-nut/SF251_67_2/blob/main/SF251_In_Class_Exercise_1.ipynb)     | [Video]  | [HW1](https://colab.research.google.com/github/yongsa-nut/SF251_67_2/blob/main/SF_251_HW1.ipynb)    |
 | 7th February |  [Data Visualization](https://colab.research.google.com/github/yongsa-nut/SF251_67_2/blob/main/SF_251_Lecture_3_Visualization_Basic.ipynb) | [Colab](https://colab.research.google.com/github/yongsa-nut/SF251_67_2/blob/main/SF251_In_Class_Exercise_2.ipynb)      | [Video]  | [HW2](https://colab.research.google.com/github/yongsa-nut/SF251_67_2/blob/main/SF251_HW2_Visualization_Basic.ipynb)    |    
 | 14th February | [Data Visualization Principles](https://docs.google.com/presentation/d/1g1aKeXXVjk4_EGxRq_Hxmhc33i2nALh9WqpQI5SDXIw/edit?usp=sharing)     | [Colab](https://colab.research.google.com/github/yongsa-nut/SF251_67_2/blob/main/SF251_In_Class_Exercise_3.ipynb)     | [Video]  |            |   
